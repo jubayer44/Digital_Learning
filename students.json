@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Fatema Jahan",
+        "title": "Web Developer",
+        "img": "https://i.ibb.co/Thb1Wmf/student-2.png"
+    },
+    {
+        "name": "Jamil Ahmed",
+        "title": "Graphic Designer",
+        "img": "https://i.ibb.co/yqkXMr1/student-1.png"
+    },
+    {
+        "name": "Nadia Islam",
+        "title": "Motion Design",
+        "img": "https://i.ibb.co/LS9cs7g/student-4.png"
+    },
+    {
+        "name": "Shamim Hossein",
+        "title": "UIUX Designer",
+        "img": "https://i.ibb.co/ZTtqnxJ/student-3.png"
+    }
+]

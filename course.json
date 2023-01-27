@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Javascript Basic to advanced",
+        "description": "Learn JavaScript with this complete course on the market. From beginner to advanced are the Swiss Army knife.",
+        "price": " 20$",
+        "image": "https://i.ibb.co/MZ6Cw8Q/course-2.png"
+    },
+    {
+        "name": "Motion Graphics",
+        "description": "Motion graphics are pieces of animation or digital footage which create the illusion of motion or rotation.",
+        "price": " 20$",
+        "image": "https://i.ibb.co/PCMx0Q4/course-6.png"
+    },
+    {
+        "name": "Digital Marketing",
+        "description": "This marketing strategy that takes place through digital means — usually through Internet-connected devices.",
+        "price": " 20$",
+        "image": "https://i.ibb.co/TBpnHQV/course-4.png"
+    },
+    {
+        "name": "Fundamental Of UI/UX Design",
+        "description": "There are many important principles within UX design but to simplify things a bit, we've broken them down.",
+        "price": " 20$",
+        "image": "https://i.ibb.co/zGcYd5s/course-1.png"
+    },
+    {
+        "name": "Photography Basic Rules",
+        "description": "Some quick example text to build on the card title and make up the bulk Photography card on our course.",
+        "price": " 20$",
+        "image": "https://i.ibb.co/74v0sRx/course-5.png"
+    },
+    {
+        "name": "Fullstack Web Development",
+        "description": "Try a full stack web development course on Future website coding skills with the help of real-world experts.",
+        "price": " 20$",
+        "image": "https://i.ibb.co/RDbkbKj/course-3.png"
+    }
+]

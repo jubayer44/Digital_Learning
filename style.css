@@ -1,0 +1,22 @@
+/* font-family-link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.slider-txt-center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title-responsive-txt{
+    font-size: 4vw;
+}
+
+.p-responsive-txt{
+    font-size: 1.5vw;
+}
+
